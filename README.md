@@ -1,3 +1,3 @@
-"# EmerTechAssignment" 
+# EmerTechAssignment
 
-randomstate and random seed reference : https://stackoverflow.com/questions/22994423/difference-between-np-random-seed-and-np-random-randomstate
+A repo to hold Jupyter notebooks and s script file for Emerging technologies assignment.
