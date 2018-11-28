@@ -1,6 +1,8 @@
 # EmerTechAssignment
 
-A repo to hold Jupyter notebooks and s script file for Emerging technologies assignment.
+A repo to hold Jupyter notebooks and a script file for Emerging technologies assignment.
+
+The Python script takes an image file containing a handwritten digit and identifies the digit using a supervised learning algorithm and the MNIST dataset. The image file must be in black and white and must be 28 x 28.
 
 **Required to run this project.** 
 
@@ -11,8 +13,8 @@ A repo to hold Jupyter notebooks and s script file for Emerging technologies ass
 &nbsp;&nbsp;&nbsp;&nbsp;3. t10k-images-idx3-ubyte.gz:   test set images (1648877 bytes) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;4. t10k-labels-idx1-ubyte.gz:   test set labels (4542 bytes)<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp; Which can be downloaded from here : http://yann.lecun.com/exdb/mnist/ <br>
-&nbsp;&nbsp;&nbsp;&nbsp; No need to unzip them, the code can handle that.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These files can be downloaded from here : http://yann.lecun.com/exdb/mnist/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No need to unzip them, the code can handle that.
 
 * Working on this project I used Anaconda to simplify package management. download here : https://www.anaconda.com/download/
 * With Anaconda installed you will need to open a cmd prompt with admin rights. (Search cmd on your machine, right click, open as admin.)
