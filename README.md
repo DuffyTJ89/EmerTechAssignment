@@ -43,6 +43,13 @@ A jupyter notebook explaining how the above Python script works and discussing i
 &nbsp;&nbsp;&nbsp;&nbsp;4. conda install -c anaconda scikit-learn <br>
 &nbsp;&nbsp;&nbsp;&nbsp;5. conda update matplotlib <br>
 
+------
+
+To run the script:
+
+* move to folder with script
+* open command prompt 
+* enter python digitrec.py
 
 
 ------
