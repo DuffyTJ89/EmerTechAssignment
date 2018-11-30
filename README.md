@@ -1,4 +1,4 @@
-# EmerTechAssignment
+# Emerging Technologies Assignment 2018 - neural network
 
 A repo to hold Jupyter notebooks and a script file for Emerging technologies assignment.
 
