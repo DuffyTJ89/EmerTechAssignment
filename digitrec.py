@@ -48,7 +48,7 @@ if datasetPresent == "y" or datasetPresent == "Y":
     encoder.fit(train_lbl)
     outputs = encoder.transform(train_lbl)
 
-    model.fit(inputs, outputs, epochs=25, batch_size=100)
+    model.fit(inputs, outputs, epochs=30, batch_size=100)
 
 
 #if no
